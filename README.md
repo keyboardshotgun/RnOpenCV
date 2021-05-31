@@ -40,9 +40,9 @@
 
 # OCR
 
-<img src="https://user-images.githubusercontent.com/25360777/120133400-1bafd580-c207-11eb-979a-e1874873ba13.png" width="50%" height="50%">![orc_3](https://user-images.githubusercontent.com/25360777/120133434-279b9780-c207-11eb-910f-b9b67c1d5197.png)
+<img src="https://user-images.githubusercontent.com/25360777/120133400-1bafd580-c207-11eb-979a-e1874873ba13.png" width="40%" height="40%">![orc_3](https://user-images.githubusercontent.com/25360777/120133434-279b9780-c207-11eb-910f-b9b67c1d5197.png)
 
-<img src="https://user-images.githubusercontent.com/25360777/120133413-1fdbf300-c207-11eb-9bf0-3ee712654759.png" width="50%" height="50%">![ocr_result2](https://user-images.githubusercontent.com/25360777/120133464-31bd9600-c207-11eb-9456-1bcaf5189c67.png)
+<img src="https://user-images.githubusercontent.com/25360777/120133413-1fdbf300-c207-11eb-9bf0-3ee712654759.png" width="40%" height="40%">![ocr_result2](https://user-images.githubusercontent.com/25360777/120133464-31bd9600-c207-11eb-9456-1bcaf5189c67.png)
 ***
 
 # QR Code Maker
