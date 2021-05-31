@@ -27,7 +27,7 @@
 [![Typescript](https://img.shields.io/badge/Typescript-v4.1.3-white?style=flat&labelColor=blue&logoColor=black&logo=typescript)](https://github.com/microsoft/TypeScript)
 
 ***
-# OpenCV VISION 
+# Object Detection
 
 <img src="https://user-images.githubusercontent.com/25360777/120133271-c5db2d80-c206-11eb-806a-e28939a6fd34.png" width="50%" height="50%">
 
@@ -40,7 +40,7 @@
 ![ssd_9782f59a-c542-441e-98d2-84e972c7eeff](https://user-images.githubusercontent.com/25360777/120133328-eacfa080-c206-11eb-8f87-c338206fc748.jpg)![ssd_df3ed32f-be83-46e4-a283-597008da322c](https://user-images.githubusercontent.com/25360777/120133337-f15e1800-c206-11eb-8448-361751b3c67b.jpg)![ssd_b00300be-1ffa-43ad-a8da-54bee4e0d334](https://user-images.githubusercontent.com/25360777/120133338-f3c07200-c206-11eb-948f-1f112450f23a.jpg)
 ***
 
-# OCR (한글)
+# OCR
 
 <img src="https://user-images.githubusercontent.com/25360777/120133400-1bafd580-c207-11eb-979a-e1874873ba13.png" width="50%" height="50%">![orc_3](https://user-images.githubusercontent.com/25360777/120133434-279b9780-c207-11eb-910f-b9b67c1d5197.png)
 
