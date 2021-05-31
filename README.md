@@ -63,3 +63,4 @@
 - ocr은 한글의 경우 빅스비 따라 가려면 많은 학습이 필요 할듯.
 - YOLOv5 테스트 필요 (SSD와 비교)  
 - https://github.com/ultralytics/yolov5
+- https://yong0810.tistory.com/30
