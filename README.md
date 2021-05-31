@@ -12,8 +12,8 @@
   + VISION (OpenCV3 , MobileNet-SSD)
   + OCR (OpenCV3 , Tesseract, 한글, 영문, 가타카나, 히라가나) 인식
   + QR코드 생성 및 처리
-  
-  - Project Common Dependencies
+
+- Project Common Dependencies
 
 [![openCV3](https://img.shields.io/badge/OpenCV3-white?style=flat&labelColor=blue&logoColor=black&logo=opencv)](https://opencv.org)
 [![MobileNet-SSD](https://img.shields.io/badge/MobileNet-SSD-white?style=flat&labelColor=blue&logoColor=black&logo=ssd)](https://github.com/chuanqi305/MobileNet-SSD)
