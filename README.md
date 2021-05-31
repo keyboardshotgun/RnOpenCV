@@ -1,6 +1,6 @@
 # Project Summary
 
-> RN + OpenCV3를 활용한 Object Detection, OCR ...
+> RN + OpenCV3 Object Detection, OCR ...
 
 - 개발기간
   + 기획 및 API 결정 / UI 디자인 / 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 2일
@@ -61,4 +61,3 @@
 - 이미지 후처리, 보정을 통한 인식률 향상방법 습득.
 - 사물 인식은 생각보다 잘 구별 되는 편
 - ocr은 한글의 경우 빅스비 따라 가려면 많은 학습이 필요 할듯.
-
