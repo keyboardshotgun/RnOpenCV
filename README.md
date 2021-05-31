@@ -3,15 +3,15 @@
 > OpenCV3를 활용한 OCR, VISION
 
 - 개발기간
-  + 기획 및 API 결정 / UI 디자인 / 이미지 선별 / 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 3일
-  + 코드작성 : 3일
-  + 테스트 및 리팩토링: 7일
+  + 기획 및 API 결정 / UI 디자인 / 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 2일
+  + 코드작성 : 4일
+  + 테스트 및 리팩토링: 10일
   
 - 특징 및 기능 
   + 성능을 위해 Android 모듈형태로 개발
-  + Object Detection (OpenCV3 , MobileNet-SSD)
-  + OCR (OpenCV3 , Tesseract, 한글, 영문, 가타카나, 히라가나) 인식
-  + QR코드 생성 및 처리
+  + Object Detection : OpenCV3 + MobileNet-SSD
+  + OCR : OpenCV3 + Tesseract (한글, 영문, 가타카나, 히라가나)
+  + QR코드 생성 및 처리 : Zxing
 
 - Project Common Dependencies
 
