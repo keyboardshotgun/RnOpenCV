@@ -9,7 +9,7 @@
   
 - 특징 및 기능 
   + 성능을 위해 Android 모듈형태로 개발
-  + VISION (OpenCV3 , MobileNet-SSD)
+  + Object Detection (OpenCV3 , MobileNet-SSD)
   + OCR (OpenCV3 , Tesseract, 한글, 영문, 가타카나, 히라가나) 인식
   + QR코드 생성 및 처리
 
@@ -57,3 +57,5 @@
 - 이미지 후처리, 보정을 통한 인식률 향상방법 습득.
 - 사물 인식은 생각보다 잘 구별 되는 편
 - ocr은 한글의 경우 빅스비 따라 가려면 많은 학습이 필요 할듯.
+- 다음 업데이트 때에는 YOLO 도입하여 비교예정
+
