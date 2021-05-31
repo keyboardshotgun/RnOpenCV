@@ -29,7 +29,7 @@
 ***
 # Object Detection
 
-<img src="https://user-images.githubusercontent.com/25360777/120133271-c5db2d80-c206-11eb-806a-e28939a6fd34.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/25360777/120133271-c5db2d80-c206-11eb-806a-e28939a6fd34.png" width="30%" height="30%">
 
 ![opencv_1](https://user-images.githubusercontent.com/25360777/120133207-a80dc880-c206-11eb-8f82-9e3d47802447.gif)![opencv_1_result](https://user-images.githubusercontent.com/25360777/120133776-b9a3a000-c207-11eb-9d06-7488d039f857.png)
 
