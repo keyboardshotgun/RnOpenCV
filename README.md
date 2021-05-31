@@ -1,6 +1,6 @@
 # Project Summary
 
-> OpenCV3를 활용한 OCR, VISION
+> RN + OpenCV3를 활용한 Object Detection, OCR ...
 
 - 개발기간
   + 기획 및 API 결정 / UI 디자인 / 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 2일
@@ -50,10 +50,15 @@
 ![qr_read_keyboardshotgun](https://user-images.githubusercontent.com/25360777/120133704-9aa50e00-c207-11eb-86b1-04e4bd7b1f38.jpg)
 ***
 
+## 참고
+- https://opencv.org
+- https://github.com/chuanqi305/MobileNet-SSD
+- https://github.com/tesseract-ocr/tesseract
+- https://github.com/zxing/zxing
+- https://yeomko.tistory.com/20?category=888201
+
 ## 후기 및 계획
-- RN에 OpenCV를 적용하기 위햔 테스트 프로젝트
 - 이미지 후처리, 보정을 통한 인식률 향상방법 습득.
 - 사물 인식은 생각보다 잘 구별 되는 편
 - ocr은 한글의 경우 빅스비 따라 가려면 많은 학습이 필요 할듯.
-- 다음 업데이트 때에는 YOLO 도입하여 비교예정
 
